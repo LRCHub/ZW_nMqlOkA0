@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "Kochi",
+  "base_artist": "Cwondo",
+  "createdAt": "2026-02-24T14:50:16.272251Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Mundiri Paadam - From \"Kochi Rajavu\"",
+      "artist": "Udit Narayan, Sujatha",
+      "has_synced": true,
+      "path": "select/01_Mundiri_Paadam_-_From__Kochi_Rajavu_Udit_Narayan,_Sujatha.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Kochi - Mattancherry",
+      "artist": "Rex Vijayan",
+      "has_synced": false,
+      "path": "select/02_Kochi_-_Mattancherry_Rex_Vijayan.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Mundiri Paadam - From \"Kochi Raajavu\"",
+      "artist": "Udit Narayan",
+      "has_synced": false,
+      "path": "select/03_Mundiri_Paadam_-_From__Kochi_Raajavu_Udit_Narayan.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Thankakutta - From \"Kochi Rajavu\"",
+      "artist": "Sujatha",
+      "has_synced": false,
+      "path": "select/04_Thankakutta_-_From__Kochi_Rajavu_Sujatha.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Mundiri Paadam (from \"Kochi Raajavu (Malayalam Film)\")",
+      "artist": "Udit Narayan",
+      "has_synced": false,
+      "path": "select/05_Mundiri_Paadam_(from__Kochi_Raajavu_(Malayalam_Film)_)_Udit_Narayan.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Kochi",
+      "artist": "Cwondo",
+      "has_synced": false,
+      "path": "select/pl_01_Kochi_Cwondo.txt"
+    }
+  ]
+}
